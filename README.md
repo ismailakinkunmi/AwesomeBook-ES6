@@ -1,6 +1,4 @@
-#
-
-Awesome books: with ES6
+# Awesome books: with ES6
 
 ## Built With
 
