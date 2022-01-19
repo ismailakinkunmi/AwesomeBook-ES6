@@ -10,7 +10,7 @@ Awesome books: with ES6
 
 ## Live Project
 
-This site was built using [GitHub Pages]('')
+This site was built using [GitHub Pages]('https://ismailakinkunmi.github.io/AwesomeBook-ES6/')
 
 ## Author
 
