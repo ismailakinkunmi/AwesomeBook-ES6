@@ -1,3 +1,4 @@
+/* eslint-disable comma-dangle */
 /* eslint-disable linebreak-style */
 /* eslint-disable no-undef */
 export default class Time {
