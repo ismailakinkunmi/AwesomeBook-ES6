@@ -8,8 +8,8 @@
       href="https://fonts.googleapis.com/css?family=Nunito:200,300,regular,500,600,700,800,900,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="style.css" />
-    <title>Awesome Books</title>
+    <link rel="stylesheet" href="index.css" />
+    <title>Awesome books: with ES6</title>
   </head>
   <body>
     <header>
@@ -22,7 +22,10 @@
         </ul>
       </nav>
     </header>
-    <span id="time"></span>
+    <div class="time-div">
+      <p class="time"></p>
+    </div>
+
     <div class="transparent">
       <div class="main">
         <section class="section display" id="list">
@@ -32,10 +35,8 @@
         <section class="section" id="addNew">
           <h2 class="heading">Add a new book</h2>
           <form id="form" class="form">
-            <label for="title"></label>
             <input type="text" id="title" placeholder="Title" />
-            <label for="author"></label> <br />
-            <input type="text" id="author" placeholder="Author" /> <br />
+            <input type="text" id="author" placeholder="Author" />
             <input class="btn" type="submit" value="Add" id="submit" />
           </form>
         </section>
@@ -54,6 +55,8 @@
     <footer class="footer">
       <p class="f-text">Made by Ismail - Copyright @ 2022</p>
     </footer>
-    <script src="index.js"></script>
+    <script type="module" src="index.js"></script>
+    <script src="https://moment.github.io/luxon/global/luxon.min.js"></script>
+    <script type="module" src="modules/date.js"></script>
   </body>
 </html>
