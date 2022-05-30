@@ -18,7 +18,6 @@ This site was built using [GitHub Pages](https://ismailakinkunmi.github.io/Aweso
 1. Adekunle Akinkunmi Ismail
 2. Github: @<https://github.com/ismailakinkunmi>
 3. LinkedIn:@<https://www.linkedin.com/in/adismail4/>
-4. Twitter: @<https://twitter.com/AkinkunmiAbiola>
 
 ## Show your support
 
